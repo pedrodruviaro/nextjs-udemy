@@ -16,3 +16,5 @@
 ### Creating a nextjs project
 
 -   `npx create-next-app`
+
+-   **public folder** -> assets served statically by nextjs
